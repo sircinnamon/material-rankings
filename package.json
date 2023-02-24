@@ -1,6 +1,6 @@
 {
   "name": "material-rankings",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Components for displaying a tiered ranking",
   "main": "dist/index.js",
   "scripts": {
@@ -20,5 +20,8 @@
   "devDependencies": {
     "@babel/cli": "^7.21.0",
     "@babel/core": "^7.21.0"
+  },
+  "dependencies": {
+    "react": "^18.2.0"
   }
 }
