@@ -51,7 +51,7 @@ function RankBadge(props){
 	let size = props.size || 100
 
 	return (
-		<img src={ICON_MAP[rank]} alt={rank} height={size} width={size}/>
+		<img src={ICON_MAP[rank]} alt={rank} title={rank} height={size} width={size}/>
 	)
 }
 
