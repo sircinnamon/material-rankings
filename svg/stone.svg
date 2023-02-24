@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="stone.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.55244701"
+     inkscape:cx="-46.158273"
+     inkscape:cy="365.64593"
+     inkscape:window-width="1856"
+     inkscape:window-height="1057"
+     inkscape:window-x="1976"
+     inkscape:window-y="360"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#c2c2c2;fill-opacity:1;stroke-width:0.714375;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:898.93;stop-color:#000000"
+       id="path19105"
+       inkscape:flatsided="true"
+       sodipodi:sides="6"
+       sodipodi:cx="53.640137"
+       sodipodi:cy="52.203346"
+       sodipodi:r1="47.828278"
+       sodipodi:r2="41.420506"
+       sodipodi:arg1="1.0471976"
+       sodipodi:arg2="1.5707963"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 77.554273,93.623851 -47.828277,-3e-6 L 5.8118591,52.203344 29.726,10.782842 l 47.828278,2e-6 23.914132,41.420505 z"
+       transform="matrix(1.0454067,0,0,1.0454067,-6.0757565,-4.2724549)" />
+    <path
+       id="path19105-34"
+       style="fill:#b1b1b1;fill-opacity:1;stroke-width:0.714375;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:898.93;stop-color:#000000"
+       d="M 77.256763,10.782927 88.687394,53.442651 72.282926,81.856103 29.543617,93.30799 29.739361,93.619749 77.558898,93.616169 101.4685,52.203394 77.554343,10.782927 Z"
+       transform="matrix(1.0454067,0,0,1.0454067,-6.0757565,-4.2724549)"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
+</svg>

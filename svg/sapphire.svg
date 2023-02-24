@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="sapphire.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.104894"
+     inkscape:cx="142.54761"
+     inkscape:cy="259.75342"
+     inkscape:window-width="1856"
+     inkscape:window-height="1057"
+     inkscape:window-x="1976"
+     inkscape:window-y="360"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#6c8be3;fill-opacity:1;stroke-width:0.714375;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:898.93;stop-color:#000000"
+       id="path23974"
+       inkscape:flatsided="true"
+       sodipodi:sides="6"
+       sodipodi:cx="38.314384"
+       sodipodi:cy="11.494315"
+       sodipodi:r1="27.428925"
+       sodipodi:r2="23.754147"
+       sodipodi:arg1="1.0471976"
+       sodipodi:arg2="1.5707963"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 52.028846,35.248461 -27.428925,-10e-7 -13.714461,-23.754146 13.714463,-23.754145 27.428925,1e-6 13.714461,23.754146 z"
+       transform="matrix(0,1.8228932,-1.2629374,0,64.5166,-19.843031)" />
+    <path
+       id="path23974-8"
+       style="fill:#385dc7;fill-opacity:1;stroke-width:0.714375;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:898.93;stop-color:#000000"
+       d="M 10.88546 11.513098 L 24.598518 35.264567 L 24.609858 35.239198 L 24.621197 35.219967 L 24.612126 35.248609 L 52.025485 35.248609 L 48.356329 28.867502 L 58.386906 11.494276 L 48.350659 -5.8887698 L 28.278164 -5.8887698 L 18.241916 11.494276 L 18.247303 11.503687 L 10.890846 11.503687 L 10.88546 11.513098 z "
+       transform="matrix(0,1.8228932,-1.2629374,0,64.5166,-19.843031)" />
+  </g>
+</svg>

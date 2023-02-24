@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="obsidian.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.5"
+     inkscape:cx="-19"
+     inkscape:cy="-56"
+     inkscape:window-width="1856"
+     inkscape:window-height="1057"
+     inkscape:window-x="1976"
+     inkscape:window-y="360"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect30821"
+       style="fill:#2e2e2e;stroke-width:0.714375;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:898.93;stop-color:#000000;fill-opacity:1"
+       d="m 30,0 h 70 L 70,100 H 0 Z m 0,0 h 70 L 70.000001,100 H 0 Z m 0,0 h 70 L 70.000001,100 H 0 Z m 0,0 h 70 L 70.000002,100 H 0 Z m 0,0 h 70 L 70.000001,100 H 0 Z m 0,0 h 70 L 70.000002,100 H 0 Z m 0,0 h 70 L 70.000002,100 H 0 Z m 0,0 h 70 L 70.000003,100 H 0 Z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="rect30821-3"
+       style="fill:#3e3e3e;fill-opacity:1;stroke-width:0.714375;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:898.93;stop-color:#000000"
+       d="M 99.995447 0 L 70.402421 29.933057 L 59.147811 70.163159 L 59.207239 70.326973 L 59.002083 70.246875 L 0.088883464 99.703475 L 0 100.0001 L 69.999862 100.0001 L 97.78938 7.369576 L 99.999064 0 L 99.995447 0 z " />
+  </g>
+</svg>
