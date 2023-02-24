@@ -1,4 +1,5 @@
 import RANKS from "../data/ranks"
+import React from "react"
 
 function RankBadge(props){
 	let determineBestRank = function(rankList){
