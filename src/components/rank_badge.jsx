@@ -30,6 +30,7 @@ function RankBadge(props){
 		obsidian: OBSIDIAN_ICON,
 		diamond: DIAMOND_ICON
 	}
+
 	let determineBestRank = function(rankList){
 		let best = rankList[0]
 		for (var i = 1; i < rankList.length; i++) {
@@ -39,6 +40,7 @@ function RankBadge(props){
 		}
 		return best
 	}
+
 	let rank
 	if(Array.isArray(props.ranks)){
 		rank = determineBestRank(props.ranks)
@@ -46,12 +48,10 @@ function RankBadge(props){
 		rank = props.ranks
 	}
 
+	let size = props.size || 100
+
 	return (
-		<div>
-			{rank}
-			<pre>{JSON.stringify(RANKS[rank])}</pre>
-			<img src={ICON_MAP[rank]} />
-		</div>
+		<img src={ICON_MAP[rank]} alt={rank} height={size} width={size}/>
 	)
 }
 
