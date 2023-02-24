@@ -1,6 +1,6 @@
 {
   "name": "material-rankings",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Components for displaying a tiered ranking",
   "main": "dist/index.js",
   "scripts": {
