@@ -2,9 +2,10 @@
   "name": "material-rankings",
   "version": "0.0.1",
   "description": "Components for displaying a tiered ranking",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src --out-dir dist --copy-files"
   },
   "keywords": [
     "gold",
@@ -15,5 +16,9 @@
     "tiered"
   ],
   "author": "Riley Lahd <sircinnamon@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.21.0",
+    "@babel/core": "^7.21.0"
+  }
 }
