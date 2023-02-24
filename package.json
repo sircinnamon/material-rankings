@@ -16,6 +16,10 @@
     "tiered"
   ],
   "author": "Riley Lahd <sircinnamon@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sircinnamon/material-rankings.git"
+  },
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.21.0",
